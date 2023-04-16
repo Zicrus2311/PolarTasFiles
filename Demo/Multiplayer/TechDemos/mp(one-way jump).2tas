@@ -1,0 +1,21 @@
+#Player 1
+1 C
+230 R
+25 R
+22 R,J
+8
+1 J
+#Manually pause and unpause here
+1 F
+5
+5 J|#Player 2
+1
+230 R
+25
+22 R,J
+8
+1 J
+#
+1
+5
+5 J
