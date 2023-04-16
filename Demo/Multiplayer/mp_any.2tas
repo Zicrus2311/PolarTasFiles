@@ -1,6 +1,7 @@
-#Player 1
-1 C
-230 R
+#mp_any
+
+#Bread
+230 R,C
 25 R
 22 R,J
 8
@@ -16,8 +17,9 @@
 10 R,>
 30 R,>
 20
-1 I|#Player 2
-1
+1 I|#mp_any
+
+#Fred
 230 R
 25
 22 R,J

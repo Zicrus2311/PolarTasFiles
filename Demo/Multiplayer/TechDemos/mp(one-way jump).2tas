@@ -1,6 +1,7 @@
-#Player 1
-1 C
-230 R
+#mp(one-way jump)
+
+#Bread
+230 R,C
 25 R
 22 R,J
 8
@@ -8,8 +9,9 @@
 #Manually pause and unpause here
 1 F
 5
-5 J|#Player 2
-1
+5 J|#mp(one-way jump)
+
+#Fred
 230 R
 25
 22 R,J
