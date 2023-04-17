@@ -1,6 +1,7 @@
 #sp_nmg
-
 #Greg
+
+#Swing tutorial
 21 R,C
 1 R,G
 1 R
@@ -59,6 +60,8 @@
 4
 10 R,J
 30 R
+
+#Tutorial skip
 1 R,G
 1 R
 15 R,G
@@ -87,6 +90,7 @@
 49 P
 10 R
 1 I|#sp_nmg
+#
 
 #
 21
@@ -147,6 +151,8 @@
 4
 10
 30
+
+#
 1
 1
 15
